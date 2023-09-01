@@ -24,4 +24,4 @@
 - Gulp
 
 🔗 Ссылка на проект:
-[Digital Landing] (https://pavelsychev.github.io/digital-landing/)
+[Digital Landing](https://pavelsychev.github.io/digital-landing/)
