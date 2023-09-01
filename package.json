@@ -44,7 +44,7 @@
     "webpack": "^5.75.0",
     "webpack-stream": "^7.0.0"
   },
-  "homepage": "http://https://pavelsychev.github.io/design-landing",
+  "homepage": "http://https://pavelsychev.github.io/digital-landing",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "gulp-gh-pages": "^0.5.4"
